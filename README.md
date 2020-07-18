@@ -27,7 +27,7 @@ This is Nuxt.js dashboard version (Nuxt.js, Bulma, Buefy, Vue.js).
 
 More info on free & premium versions of Admin One dashboard: https://justboil.me/bulma-admin-template/one
 
-#### Vue.js version
+### Vue.js version
 
 **Free & Premium** Bulma Vue.js Buefy admin dashboard
 
