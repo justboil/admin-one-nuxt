@@ -1,4 +1,6 @@
-// only add `router.base = '/<repository-name>/'` if `DEPLOY_ENV` is `GH_PAGES`
+/*
+ ** This is for GitHub pages
+ */
 const routerBase =
   process.env.DEPLOY_ENV === 'GH_PAGES'
     ? {
@@ -9,10 +11,23 @@ const routerBase =
     : {}
 
 export default {
+  /*
+   ** Concat router base setting
+   */
   ...routerBase,
+  /*
+   ** Nuxt rendering mode
+   ** See https://nuxtjs.org/api/configuration-mode
+   */
   mode: 'universal',
   /*
+   ** Nuxt target
+   ** See https://nuxtjs.org/api/configuration-target
+   */
+  target: 'static',
+  /*
    ** Headers of the page
+   ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
     title: process.env.npm_package_name || '',
