@@ -73,7 +73,7 @@ export default {
             icon: 'credit-card',
           },
           {
-            href: 'https://justboil.me/bulma-admin-template/one',
+            href: 'https://justboil.me/bulma-admin-template/one-nuxt',
             label: 'About',
             icon: 'help-circle',
           },
