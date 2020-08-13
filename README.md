@@ -1,6 +1,6 @@
 # [Admin One — Free Nuxt Bulma Admin Dashboard](https://justboil.me/bulma-admin-template/one-nuxt)
 
-[![version](https://img.shields.io/badge/version-1.4.0-blue.svg)](https://justboil.me/bulma-admin-template/one-nuxt)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one-nuxt)
+[![version](https://img.shields.io/github/v/release/justboil/admin-one-nuxt)](https://justboil.me/bulma-admin-template/one-nuxt)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one-nuxt)
 
 [![Free Nuxt Bulma admin dashboard](https://justboil.me/images/one-nuxt/repository-preview-hi-res.png)](https://justboil.github.io/admin-one-nuxt/)
 
@@ -23,27 +23,24 @@
 
 ## Other versions
 
-This is Nuxt.js dashboard version (Nuxt.js, Bulma, Buefy, Vue.js).
+This is Bulma Nuxt.js Buefy dashboard version.
 
 More info on free & premium versions of Admin One dashboard: https://justboil.me/bulma-admin-template/one
 
-### Vue.js version
-
-**Free & Premium** Bulma Vue.js Buefy admin dashboard
-
-https://github.com/vikdiesel/admin-one-vue-bulma-dashboard
-
-### Bulma Admin Dashboard (HTML)
-
-**Free & premium.** HTML + CSS/SCSS Bulma admin dashboard 
-
-https://github.com/vikdiesel/admin-one-bulma-dashboard
-
-### Laravel Bulma Admin Dashboard (Vue.js SPA)
-
-**Free & premium.** Laravel version with fully-styled authentication scaffolding and resource CRUD samples (front-end & back-end) 
- 
-https://github.com/vikdiesel/admin-one-laravel-dashboard 
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/vikdiesel/admin-one-bulma-dashboard" title="Free Bulma admin dashboard HTML CSS SCSS"><img src="https://justboil.me/svg/language-html5.svg" width="64" height="64"></a></td>
+        <td align="center"><a href="https://github.com/vikdiesel/admin-one-vue-bulma-dashboard" title="Free Bulma Vue.js Buefy admin dashboard"><img src="https://justboil.me/svg/vuejs.svg" width="64" height="64"></a></td>
+        <td align="center"><a href="https://github.com/justboil/admin-one-nuxt" title="Free Bulma Nuxt.js Buefy admin dashboard"><img src="https://justboil.me/svg/nuxt.svg" width="64" height="64"></a></td>
+        <td align="center"><a href="https://github.com/vikdiesel/admin-one-laravel-dashboard" title="Free Bulma Laravel admin dashboard"><img src="https://justboil.me/svg/laravel.svg" width="64" height="64"></a></td>
+    </tr>
+    <tr>
+        <td align="center">Bulma admin dashboard<br/>HTML/CSS/SCSS<br/><br/><a href="https://github.com/vikdiesel/admin-one-bulma-dashboard" title="Free Bulma admin dashboard HTML CSS SCSS">Free</a> | <a href="https://justboil.me/bulma-admin-template/one-html" title="Premium Bulma admin dashboard HTML CSS SCSS">Premium</a></td>
+        <td align="center">Bulma admin dashboard<br/>Vue.js Buefy<br/><br/><a href="https://github.com/vikdiesel/admin-one-vue-bulma-dashboard" title="Free Bulma Vue.js Buefy admin dashboard">Free</a> | <a href="https://justboil.me/bulma-admin-template/one" title="Premium Bulma Vue.js Buefy admin dashboard">Premium</a></td>
+        <td align="center">Bulma admin dashboard<br/>Nuxt.js Buefy<br/><br/><a href="https://github.com/justboil/admin-one-nuxt" title="Free Bulma Nuxt.js Buefy admin dashboard">Free</a> | <a href="https://justboil.me/bulma-admin-template/one-nuxt" title="Premium Bulma Nuxt.js Buefy admin dashboard">Premium</a></td>
+        <td align="center">Bulma admin dashboard<br/>Laravel<br/><br/><a href="https://github.com/vikdiesel/admin-one-laravel-dashboard" title="Free Bulma Laravel admin dashboard">Free</a> | <a href="https://justboil.me/bulma-admin-template/one-laravel" title="Free Bulma Laravel admin dashboard">Premium</a></td>
+    </tr>
+</table>
 
 ## Description & Demo
 
