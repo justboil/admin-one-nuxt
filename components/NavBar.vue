@@ -30,14 +30,14 @@
           <b-icon icon="menu" custom-size="default" />
           <span>Sample Menu</span>
           <div slot="dropdown" class="navbar-dropdown">
-            <router-link
+            <nuxt-link
               to="/profile"
               class="navbar-item"
               exact-active-class="is-active"
             >
               <b-icon icon="account" custom-size="default" />
               <span>My Profile</span>
-            </router-link>
+            </nuxt-link>
             <a class="navbar-item">
               <b-icon icon="settings" custom-size="default" />
               <span>Settings</span>
@@ -60,14 +60,14 @@
           </div>
 
           <div slot="dropdown" class="navbar-dropdown">
-            <router-link
+            <nuxt-link
               to="/profile"
               class="navbar-item"
               exact-active-class="is-active"
             >
               <b-icon icon="account" custom-size="default" />
               <span>My Profile</span>
-            </router-link>
+            </nuxt-link>
             <a class="navbar-item">
               <b-icon icon="settings" custom-size="default"></b-icon>
               <span>Settings</span>

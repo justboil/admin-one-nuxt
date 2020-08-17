@@ -58,12 +58,12 @@
         </b-table-column>
         <b-table-column custom-key="actions" class="is-actions-cell">
           <div class="buttons is-right">
-            <router-link
-              :to="{ name: 'client.edit', params: { id: props.row.id } }"
+            <nuxt-link
+              :to="{ name: 'client-id', params: { id: props.row.id } }"
               class="button is-small is-primary"
             >
               <b-icon icon="account-edit" size="is-small" />
-            </router-link>
+            </nuxt-link>
             <button
               class="button is-small is-danger"
               type="button"
