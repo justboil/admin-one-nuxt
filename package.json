@@ -1,7 +1,7 @@
 {
   "name": "admin-one-nuxt",
   "version": "1.4.2",
-  "description": "Admin One - Nuxt Bulma Admin Dashboard",
+  "description": "Admin One Nuxt - Free Nuxt Bulma admin dashboard",
   "author": "JustBoil.me",
   "private": true,
   "scripts": {
