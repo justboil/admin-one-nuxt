@@ -80,7 +80,7 @@ To launch server run `npm run start`
 
 #### Generate static project
 
-To generate static project run `npm run build` && `npm run export`
+To generate static project run `npm run generate`
 
 ## Browser Support
 

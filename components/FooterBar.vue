@@ -6,7 +6,7 @@
           <div class="level-item">
             <div class="footer-copyright">
               <b>&copy; {{ year }}, JustBoil.me</b> &mdash; Admin One Nuxt Demo
-              <span class="tag">v1.4.1</span>
+              <span class="tag">v1.4.2</span>
             </div>
           </div>
         </div>
