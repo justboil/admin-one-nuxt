@@ -1,6 +1,6 @@
-# [Admin One — Free Nuxt Bulma Admin Dashboard](https://justboil.me/bulma-admin-template/one-nuxt)
+# Admin One — Free Nuxt Bulma Admin Dashboard
 
-[![version](https://img.shields.io/github/v/release/justboil/admin-one-nuxt)](https://justboil.me/bulma-admin-template/one-nuxt)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one-nuxt)
+[![version](https://img.shields.io/github/v/release/justboil/admin-one-nuxt)](https://justboil.github.io/admin-one-nuxt/)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.github.io/admin-one-nuxt/)
 
 [![Free Nuxt Bulma admin dashboard](https://justboil.me/images/one-nuxt/repository-preview-hi-res.png)](https://justboil.github.io/admin-one-nuxt/)
 
@@ -9,7 +9,7 @@
 * Free under MIT License
 * Built with Bulma, Buefy, Vue.js & Nuxt.js
 * SCSS sources with variables
-* [Premium version](https://justboil.me/bulma-admin-template/one-nuxt) available
+* [Premium version](https://justboil.me/bulma-admin-template/one/) available
 
 ## Table of Contents
 
