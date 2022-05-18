@@ -1,6 +1,6 @@
 # Admin One — Free Nuxt Bulma Admin Dashboard (archived)
 
-[![Free Nuxt Bulma admin dashboard](https://justboil.me/images/one-nuxt/repository-preview-hi-res.png)](https://justboil.me/bulma-admin-template/)
+[![Free Nuxt Bulma admin dashboard](https://static.justboil.me/templates/archived/one-nuxt/repository-preview-hi-res.png)](https://justboil.me/bulma-admin-template/)
 
 ## Project is archived
 
